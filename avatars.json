@@ -146,5 +146,45 @@
       "avatars/avatar-01.png",
       "avatars/avatar-02.png"
     ]
+  },
+  {
+    "id": "avatar-17",
+    "title": "亚洲女性齐肩短发与圆框眼镜",
+    "image": "avatars/avatar-17.png",
+    "prompt": "Create one square profile avatar for a local chat app. Minimal flat 2D Grokbot-inspired fictional human mascot: oversized rounded face, exactly two plain black elongated capsule eyes, no mouth or nose, subtle cheek blush. Large clean hair shapes, restrained soft shading, no outlines or text. Tilt the head clockwise slightly in a close crop, both eyes clearly visible. Solid near-black charcoal background. No logos or watermark, no celebrity likeness. Match the supplied reference images' softness, head scale, capsule eyes and gentle illustrated shading; create a different original person. Character: young adult East Asian woman with warm light skin, sleek shoulder-length dark brown hair with softly curved ends, thin round gold glasses, and a dusty blue cardigan collar. Keep both capsule eyes fully visible.",
+    "styleReferences": [
+      "avatars/avatar-01.png",
+      "avatars/avatar-02.png"
+    ]
+  },
+  {
+    "id": "avatar-18",
+    "title": "亚洲女性侧编发与奶油色毛衣",
+    "image": "avatars/avatar-18.png",
+    "prompt": "Create one square profile avatar for a local chat app. Minimal flat 2D Grokbot-inspired fictional human mascot: oversized rounded face, exactly two plain black elongated capsule eyes, no mouth or nose, subtle cheek blush. Large clean hair shapes, restrained soft shading, no outlines or text. Tilt the head clockwise slightly in a close crop, both eyes clearly visible. Solid near-black charcoal background. No logos or watermark, no celebrity likeness. Match the supplied reference images' softness, head scale, capsule eyes and gentle illustrated shading; create a different original person. Character: young adult East Asian woman with warm medium skin, long black hair woven into a single loose braid resting over one shoulder, a soft side part with both eyes unobstructed, and a cream cable-knit sweater collar.",
+    "styleReferences": [
+      "avatars/avatar-01.png",
+      "avatars/avatar-02.png"
+    ]
+  },
+  {
+    "id": "avatar-19",
+    "title": "亚洲女性波浪长发与酒红色毛衣",
+    "image": "avatars/avatar-19.png",
+    "prompt": "Create one square profile avatar for a local chat app. Minimal flat 2D Grokbot-inspired fictional human mascot: oversized rounded face, exactly two plain black elongated capsule eyes, no mouth or nose, subtle cheek blush. Large clean hair shapes, restrained soft shading, no outlines or text. Tilt the head clockwise slightly in a close crop, both eyes clearly visible. Solid near-black charcoal background. No logos or watermark, no celebrity likeness. Match the supplied reference images' softness, head scale, capsule eyes and gentle illustrated shading; create a different original person. Character: young adult East Asian woman with warm light skin, long softly wavy chestnut-black hair with a gentle side part, tiny pearl stud earrings, and a burgundy sweater collar. Make the long-hair silhouette readable and leave both eyes unobstructed.",
+    "styleReferences": [
+      "avatars/avatar-01.png",
+      "avatars/avatar-02.png"
+    ]
+  },
+  {
+    "id": "avatar-20",
+    "title": "亚洲女性双丸子头与薄荷色毛衣",
+    "image": "avatars/avatar-20.png",
+    "prompt": "Create one square profile avatar for a local chat app. Minimal flat 2D Grokbot-inspired fictional human mascot: oversized rounded face, exactly two plain black elongated capsule eyes, no mouth or nose, subtle cheek blush. Large clean hair shapes, restrained soft shading, no outlines or text. Tilt the head clockwise slightly in a close crop, both eyes clearly visible. Solid near-black charcoal background. No logos or watermark, no celebrity likeness. Match the supplied reference images' softness, head scale, capsule eyes and gentle illustrated shading; create a different original person. Character: young adult East Asian woman with warm light skin, dark black hair arranged into two loose round hair buns with short face-framing wisps, and a pale mint green sweater collar. No hair covering either eye.",
+    "styleReferences": [
+      "avatars/avatar-01.png",
+      "avatars/avatar-02.png"
+    ]
   }
 ]
