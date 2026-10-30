@@ -1,0 +1,5 @@
+Generate one square profile avatar from the uploaded subject photo. Image 1 is the person to transform. If another image is provided, it is a style reference only. Preserve the subject’s skin tone, hair color and silhouette, glasses, headwear and recognizable facial hair. Do not borrow identity features from the style reference.
+
+Use the same cozy illustrated finish as this gallery: an oversized rounded head, two solid black capsule eyes, no visible mouth or nose, faint blush, simplified shapes and gentle shading. Keep both eyes unobstructed. Tilt the head slightly in a close-up crop with a little clothing visible at the bottom. Use a plain charcoal background. Keep the avatar readable at small sizes. No text, branding or decorative frames. Avoid photographic facial anatomy and glossy rendering.
+
+Create a single portrait, not a collage. If the photo contains several people, ask which person to transform. Follow any extra hairstyle or accessory instructions supplied by the user.
