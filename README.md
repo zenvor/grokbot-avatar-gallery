@@ -1,6 +1,6 @@
 # Grokbot 风格人物头像与提示词
 
-14 张 AI 生成人物头像，附每张图片实际使用的完整提示词，以及一份可用上传照片生成同类头像的通用提示词。
+16 张 AI 生成人物头像，附每张图片实际使用的完整提示词，以及一份可用上传照片生成同类头像的通用提示词。
 
 ## 全部头像
 
@@ -8,50 +8,48 @@
 
 <table>
 <tr>
-<td align="center"><a href="avatars/avatar-01.png"><img src="avatars/avatar-01.png" width="180" alt="黑发与青绿连帽衫"></a><br><a href="#avatar-01">avatar-01</a><br>黑发与青绿连帽衫</td>
-<td align="center"><a href="avatars/avatar-02.png"><img src="avatars/avatar-02.png" width="180" alt="栗色短发与奶油色毛衣"></a><br><a href="#avatar-02">avatar-02</a><br>栗色短发与奶油色毛衣</td>
-<td align="center"><a href="avatars/avatar-03.png"><img src="avatars/avatar-03.png" width="180" alt="卷发与圆框眼镜"></a><br><a href="#avatar-03">avatar-03</a><br>卷发与圆框眼镜</td>
-<td align="center"><a href="avatars/avatar-04.png"><img src="avatars/avatar-04.png" width="180" alt="银发发髻与圆框眼镜"></a><br><a href="#avatar-04">avatar-04</a><br>银发发髻与圆框眼镜</td>
+<td align="center"><a href="avatars/avatar-01.png"><img src="avatars/avatar-01.png" width="120" height="120" alt="黑发与青绿连帽衫"></a><br><a href="#avatar-01">avatar-01</a><br><sub>黑发与青绿连帽衫</sub></td>
+<td align="center"><a href="avatars/avatar-02.png"><img src="avatars/avatar-02.png" width="120" height="120" alt="栗色短发与奶油色毛衣"></a><br><a href="#avatar-02">avatar-02</a><br><sub>栗色短发与奶油色毛衣</sub></td>
+<td align="center"><a href="avatars/avatar-03.png"><img src="avatars/avatar-03.png" width="120" height="120" alt="卷发与圆框眼镜"></a><br><a href="#avatar-03">avatar-03</a><br><sub>卷发与圆框眼镜</sub></td>
+<td align="center"><a href="avatars/avatar-04.png"><img src="avatars/avatar-04.png" width="120" height="120" alt="银发发髻与圆框眼镜"></a><br><a href="#avatar-04">avatar-04</a><br><sub>银发发髻与圆框眼镜</sub></td>
 </tr>
 <tr>
-<td align="center"><a href="avatars/avatar-05.png"><img src="avatars/avatar-05.png" width="180" alt="黑色长卷发与绿色毛衣"></a><br><a href="#avatar-05">avatar-05</a><br>黑色长卷发与绿色毛衣</td>
-<td align="center"><a href="avatars/avatar-06.png"><img src="avatars/avatar-06.png" width="180" alt="铜红短发与玳瑁眼镜"></a><br><a href="#avatar-06">avatar-06</a><br>铜红短发与玳瑁眼镜</td>
-<td align="center"><a href="avatars/avatar-07.png"><img src="avatars/avatar-07.png" width="180" alt="编发高髻与金色耳环"></a><br><a href="#avatar-07">avatar-07</a><br>编发高髻与金色耳环</td>
-<td align="center"><a href="avatars/avatar-08.png"><img src="avatars/avatar-08.png" width="180" alt="棕发胡须与海军蓝毛衣"></a><br><a href="#avatar-08">avatar-08</a><br>棕发胡须与海军蓝毛衣</td>
+<td align="center"><a href="avatars/avatar-05.png"><img src="avatars/avatar-05.png" width="120" height="120" alt="黑色长卷发与绿色毛衣"></a><br><a href="#avatar-05">avatar-05</a><br><sub>黑色长卷发与绿色毛衣</sub></td>
+<td align="center"><a href="avatars/avatar-06.png"><img src="avatars/avatar-06.png" width="120" height="120" alt="铜红短发与玳瑁眼镜"></a><br><a href="#avatar-06">avatar-06</a><br><sub>铜红短发与玳瑁眼镜</sub></td>
+<td align="center"><a href="avatars/avatar-07.png"><img src="avatars/avatar-07.png" width="120" height="120" alt="编发高髻与金色耳环"></a><br><a href="#avatar-07">avatar-07</a><br><sub>编发高髻与金色耳环</sub></td>
+<td align="center"><a href="avatars/avatar-08.png"><img src="avatars/avatar-08.png" width="120" height="120" alt="棕发胡须与海军蓝毛衣"></a><br><a href="#avatar-08">avatar-08</a><br><sub>棕发胡须与海军蓝毛衣</sub></td>
 </tr>
 <tr>
-<td align="center"><a href="avatars/avatar-09.png"><img src="avatars/avatar-09.png" width="180" alt="淡紫短发与银色耳饰"></a><br><a href="#avatar-09">avatar-09</a><br>淡紫短发与银色耳饰</td>
-<td align="center"><a href="avatars/avatar-10.png"><img src="avatars/avatar-10.png" width="180" alt="光头圆框眼镜与绿色衬衫"></a><br><a href="#avatar-10">avatar-10</a><br>光头圆框眼镜与绿色衬衫</td>
-<td align="center"><a href="avatars/avatar-11.png"><img src="avatars/avatar-11.png" width="180" alt="栗色卷发与浅蓝毛衣"></a><br><a href="#avatar-11">avatar-11</a><br>栗色卷发与浅蓝毛衣</td>
-<td align="center"><a href="avatars/avatar-12.png"><img src="avatars/avatar-12.png" width="180" alt="银灰短发与方框眼镜"></a><br><a href="#avatar-12">avatar-12</a><br>银灰短发与方框眼镜</td>
+<td align="center"><a href="avatars/avatar-09.png"><img src="avatars/avatar-09.png" width="120" height="120" alt="淡紫短发与银色耳饰"></a><br><a href="#avatar-09">avatar-09</a><br><sub>淡紫短发与银色耳饰</sub></td>
+<td align="center"><a href="avatars/avatar-10.png"><img src="avatars/avatar-10.png" width="120" height="120" alt="光头圆框眼镜与绿色衬衫"></a><br><a href="#avatar-10">avatar-10</a><br><sub>光头圆框眼镜与绿色衬衫</sub></td>
+<td align="center"><a href="avatars/avatar-11.png"><img src="avatars/avatar-11.png" width="120" height="120" alt="栗色卷发与浅蓝毛衣"></a><br><a href="#avatar-11">avatar-11</a><br><sub>栗色卷发与浅蓝毛衣</sub></td>
+<td align="center"><a href="avatars/avatar-12.png"><img src="avatars/avatar-12.png" width="120" height="120" alt="银灰短发与方框眼镜"></a><br><a href="#avatar-12">avatar-12</a><br><sub>银灰短发与方框眼镜</sub></td>
 </tr>
 <tr>
-<td align="center"><a href="avatars/avatar-13.png"><img src="avatars/avatar-13.png" width="180" alt="橙色针织帽与奶油色连帽衫"></a><br><a href="#avatar-13">avatar-13</a><br>橙色针织帽与奶油色连帽衫</td>
-<td align="center"><a href="avatars/avatar-14.png"><img src="avatars/avatar-14.png" width="180" alt="金色马尾与青绿色毛衣"></a><br><a href="#avatar-14">avatar-14</a><br>金色马尾与青绿色毛衣</td>
+<td align="center"><a href="avatars/avatar-13.png"><img src="avatars/avatar-13.png" width="120" height="120" alt="橙色针织帽与奶油色连帽衫"></a><br><a href="#avatar-13">avatar-13</a><br><sub>橙色针织帽与奶油色连帽衫</sub></td>
+<td align="center"><a href="avatars/avatar-14.png"><img src="avatars/avatar-14.png" width="120" height="120" alt="金色马尾与青绿色毛衣"></a><br><a href="#avatar-14">avatar-14</a><br><sub>金色马尾与青绿色毛衣</sub></td>
+<td align="center"><a href="avatars/avatar-15.png"><img src="avatars/avatar-15.png" width="120" height="120" alt="亚洲女性高马尾与粉色毛衣"></a><br><a href="#avatar-15">avatar-15</a><br><sub>亚洲女性高马尾与粉色毛衣</sub></td>
+<td align="center"><a href="avatars/avatar-16.png"><img src="avatars/avatar-16.png" width="120" height="120" alt="亚洲女性披长发与淡紫毛衣"></a><br><a href="#avatar-16">avatar-16</a><br><sub>亚洲女性披长发与淡紫毛衣</sub></td>
 </tr>
 </table>
 
 ## 如何使用这些提示词
 
-- **虚构人物生成**：使用下方某张头像的完整提示词。第 01–04 张仅使用文字；第 05–14 张还上传了 `avatar-01.png` 和 `avatar-02.png` 作为画风参考。
+- **虚构人物生成**：使用下方某张头像的完整提示词。第 01–04 张仅使用文字；第 05–16 张还上传了 `avatar-01.png` 和 `avatar-02.png` 作为画风参考。
 - **把自己的照片转换成头像**：上传目标照片，再粘贴下一节的通用提示词。想贴近本仓库效果时，可再上传一张本仓库头像，并注明“图 1 是转换对象，图 2 只参考画风”。
 - 本批图片由内置 `image_gen` 工具生成。未记录可供复现的具体模型版本或随机种子，相同提示词不保证生成相同图片。照片转换通用提示词是新增模板，尚未用真人照片验证。
 
 ## 上传照片转换：通用提示词
 
-可以。参考的 [hahwul 公开存档](https://gist.github.com/hahwul/581812ec1e4a5b43e40634b7585c5f64)本身就是通用的图片转换提示词：以用户上传的人物或角色图片为输入，保留辨识特征，再转换成胶囊眼头像。
+**想上传自己的照片生成这种头像，优先使用我们已 fork 保存的 [Grokbot 通用提示词 Gist](https://gist.github.com/zenvor/b544d31ca0cd34b622620c28026bfaa3)。**
 
-下面是为本仓库这批柔和画风重新编写的模板，并非存档原文或逐字翻译。没有照片时，本模板不能确定要保留的人物特征。
+这份 Gist fork 自 [hahwul 的公开存档](https://gist.github.com/hahwul/581812ec1e4a5b43e40634b7585c5f64)，包含英文 `grokbot-icon-en.md` 和韩文 `grokbot-icon-kr.md`。它以用户上传的人物或角色图片为输入，保留肤色、发型和眼镜等辨识特征，再转换成胶囊眼头像。它是独立的 Gist，不是当前这个图片素材仓库的 fork。
 
-```text
-Generate one square profile avatar from the uploaded subject photo. Image 1 is the person to transform. If another image is provided, it is a style reference only. Preserve the subject’s skin tone, hair color and silhouette, glasses, headwear and recognizable facial hair. Do not borrow identity features from the style reference.
+1. 打开上述 Gist，复制英文文件 `grokbot-icon-en.md` 的提示词正文。
+2. 在支持参考图片的图像生成工具中，上传想转换的单人照片，并粘贴提示词。
+3. 如果同时上传本仓库头像参考画风，注明“图 1 是转换对象，图 2 只参考画风，人物特征以图 1 为准”。
 
-Use the same cozy illustrated finish as this gallery: an oversized rounded head, two solid black capsule eyes, no visible mouth or nose, faint blush, simplified shapes and gentle shading. Keep both eyes unobstructed. Tilt the head slightly in a close-up crop with a little clothing visible at the bottom. Use a plain charcoal background. Keep the avatar readable at small sizes. No text, branding or decorative frames. Avoid photographic facial anatomy and glossy rendering.
-
-Create a single portrait, not a collage. If the photo contains several people, ask which person to transform. Follow any extra hairstyle or accessory instructions supplied by the user.
-```
-
-独立文件：[photo-to-avatar.txt](prompts/photo-to-avatar.txt)。上传图片后连同这段文字一起发送给支持参考图片的图像生成工具即可。
+本仓库另保留一份为这批柔和画风编写的 [photo-to-avatar.txt](prompts/photo-to-avatar.txt)，可作为可选模板；它不是 Gist 原文或逐字翻译，尚未用真人照片验证。
 
 ## 每张头像的实际提示词
 
@@ -225,10 +223,34 @@ Create one square profile avatar for a local chat app. Minimal flat 2D Grokbot-i
 Create one square profile avatar for a local chat app. Minimal flat 2D Grokbot-inspired fictional human mascot: oversized rounded face, exactly two plain black elongated capsule eyes, no mouth or nose, subtle cheek blush. Large clean hair shapes, restrained soft shading, no outlines or text. Tilt the head clockwise slightly in a close crop, both eyes clearly visible. Solid near-black charcoal background. No logos or watermark, no celebrity likeness. Match the supplied reference images' softness, head scale, capsule eyes and gentle illustrated shading; create a different original person. Character: young adult woman with fair skin, honey-blonde hair in a loose ponytail, side-swept bangs that do not hide the eyes, and a muted teal sweater collar.
 ```
 
+<a id="avatar-15"></a>
+
+### avatar-15 · 亚洲女性高马尾与粉色毛衣
+
+[原图](avatars/avatar-15.png) · [提示词文件](prompts/avatar-15.txt)
+
+画风参考图：[avatar-01](avatars/avatar-01.png) 和 [avatar-02](avatars/avatar-02.png)。生成的是新人物。
+
+```text
+Create one square profile avatar for a local chat app. Minimal flat 2D Grokbot-inspired fictional human mascot: oversized rounded face, exactly two plain black elongated capsule eyes, no mouth or nose, subtle cheek blush. Large clean hair shapes, restrained soft shading, no outlines or text. Tilt the head clockwise slightly in a close crop, both eyes clearly visible. Solid near-black charcoal background. No logos or watermark, no celebrity likeness. Match the supplied reference images' softness, head scale, capsule eyes and gentle illustrated shading; create a different original person. Character: young adult East Asian woman with warm light skin, straight jet-black hair tied in a clearly visible high ponytail with a simple dark hair tie, light airy side bangs that leave both eyes fully visible, and a soft blush pink sweater collar. The ponytail silhouette should be readable within the square crop.
+```
+
+<a id="avatar-16"></a>
+
+### avatar-16 · 亚洲女性披长发与淡紫毛衣
+
+[原图](avatars/avatar-16.png) · [提示词文件](prompts/avatar-16.txt)
+
+画风参考图：[avatar-01](avatars/avatar-01.png) 和 [avatar-02](avatars/avatar-02.png)。生成的是新人物。
+
+```text
+Create one square profile avatar for a local chat app. Minimal flat 2D Grokbot-inspired fictional human mascot: oversized rounded face, exactly two plain black elongated capsule eyes, no mouth or nose, subtle cheek blush. Large clean hair shapes, restrained soft shading, no outlines or text. Tilt the head clockwise slightly in a close crop, both eyes clearly visible. Solid near-black charcoal background. No logos or watermark, no celebrity likeness. Match the supplied reference images' softness, head scale, capsule eyes and gentle illustrated shading; create a different original person. Character: young adult East Asian woman with warm light skin, long straight dark brown-black hair worn loose over both shoulders, a gentle center part with face-framing strands that do not obscure either eye, and a pale lavender sweater collar. Keep the flowing long-hair silhouette visible within the square crop.
+```
+
 ## 文件结构
 
 ```text
-avatars/                    14 张原始 PNG
+avatars/                    16 张原始 PNG
 prompts/avatar-01.txt …      每张头像实际使用的完整提示词
 prompts/photo-to-avatar.txt  上传照片转换的通用提示词
 prompts/generation-log.txt   最初保存的生成记录
@@ -239,6 +261,7 @@ README.md                   完整图库与说明
 ## 来源与说明
 
 - 提示词风格线索来自 [Serio_ai 的 X 分享帖](https://x.com/Multi_Serio_Ai/status/2100800237619347535)。
-- 参考阅读：[hahwul 保存的英文与韩文通用提示词](https://gist.github.com/hahwul/581812ec1e4a5b43e40634b7585c5f64)。该存档不等于本仓库实际使用的提示词。
+- 已 fork 保存：[zenvor 的通用提示词 Gist](https://gist.github.com/zenvor/b544d31ca0cd34b622620c28026bfaa3)。
+- 上游参考：[hahwul 保存的英文与韩文通用提示词](https://gist.github.com/hahwul/581812ec1e4a5b43e40634b7585c5f64)。该存档不等于本仓库实际使用的提示词。
 - 本仓库图片为本次生成的虚构人物，没有使用真实人物照片。未转载作者画廊图片或将第三方原始提示词全文纳入仓库。
 - 这是独立整理的头像集合，与 xAI、Grok 或参考提示词作者不存在隶属关系。
